@@ -1,0 +1,3 @@
+variable "policy" {
+  type = string
+}
